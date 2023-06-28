@@ -4,4 +4,4 @@
 # 2. Google Drive is no longer allowed for production Adobe projects.
 
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/milo-academy/Shared%20Documents/rishabhgargg?csf=1&web=1&e=7W7cCt
+  /: https://drive.google.com/drive/folders/13htTSAOEB_PbRbA4YGlZ5_20qe1lpo3Q?usp=drive_link
